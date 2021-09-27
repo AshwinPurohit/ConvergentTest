@@ -1,0 +1,6 @@
+1. Businesses are in dire need of better inventory management and
+   analytical tools. What are some ways we as software engineers 
+   can provide that?
+2. AI and data privacy is becoming an area of concern for many 
+   businesses. How can we build AI to be the best it can be 
+   while not overstepping the boundaries?
